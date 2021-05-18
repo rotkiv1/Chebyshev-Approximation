@@ -17,3 +17,9 @@ Assume we have some data, which are shown on the picture below\
 \
 \
 You can adjust number of points which make the curve, or adjust an interval (here, in the example above, i used number of points equals 300, and the interval [5, 6] for x
+\
+
+# Comparison to excel built-in function
+![Zrzut ekranu 2021-05-18 144238](https://user-images.githubusercontent.com/83311097/118653009-697c1500-b7e7-11eb-9991-10a793526374.png)
+
+
